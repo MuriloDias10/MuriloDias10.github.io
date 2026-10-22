@@ -94,6 +94,10 @@ a {
     text-decoration: none;
 }
 
+.code, pre {
+    font-family: Consolas, "Courier New", monospace;
+}
+
 .secao {
     padding: 72px;
 }
